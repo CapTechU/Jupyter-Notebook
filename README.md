@@ -1,2 +1,2 @@
 # Jupyter-Notebook
-Jupyter notebooks for Mach30 Ground SPhere
+Jupyter notebooks for Mach30 Ground Sphere
